@@ -1,0 +1,7 @@
+ mkdir .ssh
+    3  cd .ssh
+    4  ssh-keygen -b 2048 -t rsa -f genailabs
+    5  ls -l
+    6  cat genailabs.pub
+    7  History
+    8  history"
